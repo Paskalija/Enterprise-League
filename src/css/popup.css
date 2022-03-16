@@ -1,0 +1,20 @@
+.title{
+    padding-left: 7%;
+    font-weight: bolder;
+    font-size:x-large;
+}
+.pics{
+    margin-left: 15%;
+ }
+.purple{
+    background-color: rgb(133,88,159) !important;
+    border-color: rgb(133,88,159) !important;
+}
+.green{
+    background-color: rgb(65,167,163) !important;
+    border-color: rgb(65,167,163) !important;
+}
+.direction{
+    display: flex;
+    row-gap: 30px;
+}

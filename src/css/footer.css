@@ -1,0 +1,83 @@
+
+.footer2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    width: 100%;
+    padding: 3%; 
+} 
+.img-footer{
+    width: 300px;
+    height: 100px;
+    margin-bottom: 33px;
+}
+.footercontainer{
+    margin-top: 7%;
+    background-color: rgb(242,242,242);
+   
+}
+.leftPadding{
+    padding-left: 15%;
+}
+
+
+.second{
+    display: flex;
+  
+}
+.first{
+    display: flex; 
+}   
+ .image{
+    background-image: url("https://enterpriseleague.com/public/img/icons/world_image.png");
+    width: 96px;
+    height: 64px;
+    background-size: 96px 64px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+    padding: 15px;
+}
+.left-side{
+    display: block;
+}
+.link{
+    color: rgb(33,137,209);
+    text-decoration: none;
+}
+.menu{
+    color: rgb(119,119,119);
+    text-decoration: none;
+    background-color: transparent;
+}
+.footerbackground{
+    background-color: rgb(242,242,242);
+}
+.displayFlex{
+    display: flex;
+   
+}
+.bi{
+    padding-right: 7%;
+}
+.list-group{
+    list-style-type: none;
+    line-height: 230%;
+}
+.tekst{
+    color: rgb(119,119,119);
+    text-decoration: none;
+}
+.names{
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-color: rgb(33,137,209);
+    color: rgb(119,119,119);
+
+}
+.copyright{
+   padding-inline-end:  33%;
+   padding-inline-start: 33%;
+}

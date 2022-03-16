@@ -1,0 +1,58 @@
+.text{
+    font-weight: bold;
+    font-family: "MuseoSansLight", sans-serif;
+    font-size: 45px;
+    margin-bottom: 10%;
+    color: rgb(112,112,112);
+}
+.links{
+    color: rgb(112,112,112);
+    font-size:xx-large;
+    font-family: "MuseoSansLight", sans-serif;
+    text-decoration: none;
+    
+}
+.greytext{
+    color: rgb(112,112,112);
+}
+.bluetext{
+    color:rgb(33,137,209)
+}
+.homepage{
+    margin-top: 7%;
+    margin-bottom: 3%;
+    justify-content: center;
+    text-align: center;
+    
+}
+.card-img-left{
+    width: 357px;
+    padding: 3%;
+    border-radius: 12%;
+}
+.card{
+    justify-content: center;
+    align-items: center;
+}
+.underScore{
+    text-decoration: underline;
+    text-decoration-color: rgb(33,137,209);
+    text-underline-position: under;
+}
+.footer1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 42px;
+    margin-top: 7% !important;
+ 
+    
+} 
+.displayFlex{
+    display: flex;
+   
+}
+.imagefooter1{
+    width: 150px;
+    height: 150px;
+}
